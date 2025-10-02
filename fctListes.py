@@ -9,17 +9,46 @@ qui retourne les points de vies restants après l'attaque.
 """
 
 """
-2. Fonction qui reçoit une liste de legos et une couleur et qui le pourcentage de blocs de cette couleur
+2. Fonction qui reçoit une liste de legos et une couleur et qui retourne le pourcentage de blocs de cette couleur
 """
 
 """
-3. Fonction qui reçoit une liste de legos et qui il y a combien de blocs de chaque couleur en moyenne
+3. Fonction qui reçoit une liste de legos et qui retourne il y a combien de blocs de chaque couleur en moyenne
 """
 
 # Répartition des tâches :
 """                     
 a   b   c
-1   2   3   Nom :                   
-2   3   1   Nom :                   
-3   1   2   Nom :                   
+1   2   3   Nom : jessyka                   
+2   3   1   Nom : Zachary                
+3   1   2   Nom : Isaac Chrétien                  
 """
+1:jess
+
+import random
+
+def SKILL_J1(defens, health):
+    defens == 10:
+    i == random.randint(5,20)
+    health == i:
+        if health < 5:
+        defens == i+5
+
+def SKILL_J2(attk):
+    attk == 20
+    if SKILL_J1(health > 5)
+    attk= +5
+    return SKILL_J1(health) - SKILL_J2(attk)
+if SKILL_J1 health == 0:
+    print('J2 WIN!')
+elif SKILL_J1() health >= 1:
+    print('J1 WIN!')
+else:
+    print('GG!')
+#ahahah je sais pas ce que je fais lolololol
+
+__________________________________________________________________________
+liste_lego ['bleu', 'vert', 'rouge' ,'bleu', 'jaune', 'vert']
+
+def moyenne_couleur_lego
+
