@@ -27,12 +27,12 @@ a   b   c
 
 import random
 
-def SKILL_J1(defens, health):
-    defens == 10:
+def SKILL_J1(defense, health):
+    defense == 10:
     i == random.randint(5,20)
     health == i:
         if health < 5:
-        defens == i+5
+        defense == i+5
 
 def SKILL_J2(attk):
     attk == 20
@@ -47,8 +47,5 @@ else:
     print('GG!')
 #ahahah je sais pas ce que je fais lolololol
 
-__________________________________________________________________________
-liste_lego ['bleu', 'vert', 'rouge' ,'bleu', 'jaune', 'vert']
 
-def moyenne_couleur_lego
 
