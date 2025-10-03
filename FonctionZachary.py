@@ -5,6 +5,5 @@ def pourcentage_couleur(lego, couleur):
     nb_couleur = lego.count(couleur)
     total = len(lego)
     pourcentage = (nb_couleur / total ) * 100
-    return pourcentage
 
-lego = ["rouge", "bleu", "rouge", "vert", "jaune", "vert"]
+    return pourcentage
